@@ -1,0 +1,890 @@
+[
+  {
+    "name": "Chinese taro",
+    "lat": 27.70449046,
+    "lng": 85.29760912,
+    "photo": "1774068570214.jpg",
+    "desc": "Climate: Loves high humidity, warm temperatures (18ï¿½Cï¿½30ï¿½C), and bright, indirect sunlight. It thrives in moist, well-draining soil.\nGrowth: Grows from underground rhizomes. It typically follows a \"one in, one out\" cycle, where the oldest leaf dies",
+    "uses": "Ornamental and air purifier purpose"
+  },
+  {
+    "name": "Amala",
+    "lat": 27.70452722,
+    "lng": 85.29762525,
+    "photo": "1774069148802.jpg",
+    "desc": "Amala (Phyllanthus emblica), commonly known as the Indian Gooseberry, is a hardy deciduous tree that thrives in subtropical to tropical climates, showing remarkable resilience to temperatures ranging from 0ï¿½C to 45ï¿½C and favoring deep, multitalented",
+    "uses": "?Immune Boosting: A core component of Chyawanprash for respiratory and digestive health.\n?Hair Care: Used in oils and powders to prevent graying and strengthen follicles.\n?Culinary: Processed into pickles, candies (Murabba), and dried powder.\n?Industrial"
+  },
+  {
+    "name": "Vanda orchid",
+    "lat": 27.70449059,
+    "lng": 85.29758615,
+    "photo": "1774069480794.jpg",
+    "desc": "Vanda orchids are extraordinary epiphytic plants that thrive in warm, tropical climates with high humidity and temperatures between 18ï¿½C and 30ï¿½C, requiring bright, filtered light and constant air circulation around their unique, aerial root systems.",
+    "uses": "?Ornamental: Popular as high-end houseplants and hanging garden displays.\n?Floral Industry: Widely used in leis, corsages, and luxury bouquets due to their long-lasting blooms.\n?Hybridization: Frequently cross-bred by hobbyists to create unique color pat"
+  },
+  {
+    "name": "Amaryllis",
+    "lat": 27.70451067,
+    "lng": 85.2975672,
+    "photo": "1774069669074.jpg",
+    "desc": "Amaryllis (Hippeastrum), a striking bulbous perennial, thrives in warm, subtropical climates with temperatures between 18ï¿½C and 25ï¿½C, requiring bright, indirect sunlight and well-draining, loamy soil to trigger its spectacular flowering cycle. Its gr",
+    "uses": "Their primary uses include:\n?Ornamental: Widely used as a festive indoor potted plant for winter \"forcing.\"\n?Landscape: Planted in warm-climate gardens for dramatic spring borders.\n?Floral Design: Highly valued as a long-lasting cut flower in high-end ar"
+  },
+  {
+    "name": "Bottle brush",
+    "lat": 27.70450515,
+    "lng": 85.29757927,
+    "photo": "1774069875112.jpg",
+    "desc": "The Bottlebrush (Callistemon), a resilient evergreen shrub or tree, thrives in warm, temperate to subtropical climates with temperatures between 10ï¿½C and 35ï¿½C, favoring full sunlight and well-draining, slightly acidic soil. Its growth pattern is char",
+    "uses": "?Ornamental: Popular as a vibrant hedge, screen, or standalone specimen in landscaping.\n?Pollinator Support: High nectar production attracts bees, butterflies, and nectar-feeding birds.\n?Erosion Control: Strong, spreading root systems help stabilize soil"
+  },
+  {
+    "name": "bougainvillea",
+    "lat": 27.70451324,
+    "lng": 85.29760457,
+    "photo": "1774070345555.jpg",
+    "desc": "Bougainvillea, a resilient and sun-loving tropical vine, thrives in warm climates with temperatures between 15ï¿½C and 35ï¿½C, requiring at least six hours of direct sunlight and well-draining, slightly acidic soil to produce its most vibrant displays. I",
+    "uses": "Landscaping: Ideal for colorful hedges, trellises, and security barriers due to its thorns.  \n?Bonsai: Frequently trained into miniature trees because of its woody trunk and high prune tolerance.\n?Erosion Control: Used on steep banks and slopes to stabil"
+  },
+  {
+    "name": "Bottle Brush",
+    "lat": 27.70453495,
+    "lng": 85.29750235,
+    "photo": "1774070534189.jpg",
+    "desc": "The Bottlebrush (Callistemon), a resilient evergreen shrub or tree, thrives in warm, temperate to subtropical climates with temperatures between 10ï¿½C and 35ï¿½C, favoring full sunlight and well-draining, slightly acidic soil. Its growth pattern is char",
+    "uses": "Ornamental: Popular as a vibrant hedge, screen, or standalone specimen in landscaping.\n?Pollinator Support: High nectar production attracts bees, butterflies, and nectar-feeding birds.\n?Erosion Control: Strong, spreading root systems help stabilize soil"
+  },
+  {
+    "name": "impatiens auricoma",
+    "lat": 27.70450319,
+    "lng": 85.29756631,
+    "photo": "1774070639372.jpg",
+    "desc": "Impatiens auricoma, a rare and exotic perennial native to the rainforests of the Comoro Islands, thrives in warm, humid, tropical climates with temperatures between 18ï¿½C and 28ï¿½C, requiring dappled shade and consistently moist, well-draining organic",
+    "uses": "Ornamental: Prized by collectors as a rare \"shady\" focal point for tropical conservatories.\n?Hybridization: A vital genetic resource for creating yellow-flowered commercial Impatiens.\n?Container Gardening: Ideal for shaded balconies and hanging baskets i"
+  },
+  {
+    "name": "Duranta erecta",
+    "lat": 27.70457035,
+    "lng": 85.2975325,
+    "photo": "1774070774002.jpg",
+    "desc": "Duranta erecta, commonly known as Golden Dewdrop, is a versatile evergreen shrub that thrives in full sun to partial shade within subtropical and tropical climates, favoring temperatures between 15ï¿½C and 35ï¿½C and well-draining, moderately fertile soi",
+    "uses": "?Landscaping: Widely utilized as a colorful privacy hedge, screen, or ornamental topiary.\n?Pollinator Support: Attracts a wide variety of butterflies and hummingbirds with its nectar-rich blooms.\n?Erosion Control: Its dense, spreading root system helps s"
+  },
+  {
+    "name": "Dhupi(Juniperus sabina)",
+    "lat": 27.70458256,
+    "lng": 85.2975136,
+    "photo": "1774070901480.jpg",
+    "desc": "Juniperus sabina, commonly known as the Savin Juniper, is an incredibly hardy coniferous shrub that thrives in cold to temperate climates, showing remarkable tolerance for temperatures as low as -30ï¿½C and favoring full sunlight with well-draining, rock",
+    "uses": "?Ground Cover: Excellent for stabilizing steep, sunny banks and preventing soil erosion.\n?Xeriscaping: Highly valued in water-conservative landscapes due to its extreme drought tolerance.\n?Bonsai: A favorite species for traditional bonsai practitioners b"
+  },
+  {
+    "name": "Chrysanthemum indicum",
+    "lat": 27.70457979,
+    "lng": 85.29749986,
+    "photo": "1774071094920.jpg",
+    "desc": "Chrysanthemum indicum, or Wild Chrysanthemum, is a resilient perennial herb that thrives in temperate to subtropical climates with temperatures between 15ï¿½C and 25ï¿½C, requiring well-draining, slightly acidic soil and full sunlight to facilitate its r",
+    "uses": "Medicinal: Extensively used in traditional medicine to treat inflammation, hypertension, and respiratory ailments.\n?Beverage: The dried flower heads are popular for brewing \"Chrysanthemum tea,\" valued for its cooling properties.\n?Biopesticide: Contains n"
+  },
+  {
+    "name": "Rhododendron indicum",
+    "lat": 27.70459154,
+    "lng": 85.29750836,
+    "photo": "1774071214055.jpg",
+    "desc": "Rhododendron indicum, commonly known as Satsuki Azalea, is a versatile evergreen shrub that thrives in temperate to subtropical climates with temperatures between 10ï¿½C and 25ï¿½C, requiring dappled shade and highly acidic, well-draining soil rich in or",
+    "uses": "Bonsai Art: Perhaps the most popular azalea for bonsai due to its small leaves, rugged trunk, and tolerance for heavy pruning.\n?Ornamental: Widely used in Japanese-style gardens as a flowering groundcover or low hedge.\n?Container Gardening: Ideal for aci"
+  },
+  {
+    "name": "Dhupi(Juniperus sabina)",
+    "lat": 27.70461312,
+    "lng": 85.29750387,
+    "photo": "1774071486365.jpg",
+    "desc": "Juniperus sabina, commonly known as the Savin Juniper, is an incredibly hardy coniferous shrub that thrives in cold to temperate climates, showing remarkable tolerance for temperatures as low as -30ï¿½C and favoring full sunlight with well-draining, rock",
+    "uses": "?Ground Cover: Excellent for stabilizing steep, sunny banks and preventing soil erosion.\n?Xeriscaping: Highly valued in water-conservative landscapes due to its extreme drought tolerance.\n?Bonsai: A favorite species for traditional bonsai practitioners b"
+  },
+  {
+    "name": "Citrus aurantiifolia",
+    "lat": 27.70461063,
+    "lng": 85.2974981,
+    "photo": "1774071615614.jpg",
+    "desc": "Citrus aurantiifolia, commonly known as the Key Lime or Mexican Lime, is a small, thorny evergreen tree that thrives in warm, tropical and subtropical climates with temperatures between 20ï¿½C and 30ï¿½C, requiring full sun and well-draining, slightly ac",
+    "uses": "?Culinary: The essential ingredient for authentic Key Lime pie, marinades, and tropical cocktails.\n?Essential Oils: Cold-pressed from the peel for use in aromatherapy, perfumes, and cleaning products.\n?Medicinal: Traditionally used in various cultures to"
+  },
+  {
+    "name": "Grapes",
+    "lat": 27.70465729,
+    "lng": 85.29754658,
+    "photo": "1774071714631.jpg",
+    "desc": "Vitis labrusca, commonly known as the Fox Grape, is a vigorous deciduous climbing vine that thrives in temperate climates with temperatures between 15ï¿½C and 25ï¿½C, requiring full sunlight and deep, well-draining acidic soils with a pH of 5.5 to 6.5. I",
+    "uses": "Culinary: The standard variety for high-quality grape juices, jellies, jams, and preserves.\n?Winemaking: Used to produce regional sweet wines and \"Kosher\" wines with a distinct fruity profile.  \n?Rootstock: Its natural resistance to Phylloxera (a devasta"
+  },
+  {
+    "name": "Hibiscus fragilis",
+    "lat": 27.70467049,
+    "lng": 85.29755413,
+    "photo": "1774074348475.jpg",
+    "desc": "Hibiscus fragilis, commonly known as the Mandrinette, is an exceedingly rare evergreen shrub native only to the steep slopes of Mauritius, thriving in a tropical maritime climate with temperatures between 20ï¿½C and 30ï¿½C and requiring well-draining, sl",
+    "uses": "Hibiscus fragilis, commonly known as the Mandrinette, is an exceedingly rare evergreen shrub native only to the steep slopes of Mauritius, thriving in a tropical maritime climate with temperatures between 20ï¿½C and 30ï¿½C and requiring well-draining, sl"
+  },
+  {
+    "name": "Kiwi",
+    "lat": 27.7046878,
+    "lng": 85.29754748,
+    "photo": "1774074475316.jpg",
+    "desc": "The Kiwi (Actinidia deliciosa), a vigorous deciduous climbing vine, thrives in temperate climates with temperatures between 10ï¿½C and 25ï¿½C, requiring a long frost-free growing season of at least 225 days and well-draining, slightly acidic soil (pH 5.0",
+    "uses": "Culinary: Consumed fresh, in salads, or as a garnish; famous for its high enzyme (actinidin) content which tenderizes meat.\n?Nutritional: One of the most nutrient-dense fruits, providing more Vitamin C per gram than an orange and high levels of Vitamin E"
+  },
+  {
+    "name": "Chrysanthemum indicum",
+    "lat": 27.70467774,
+    "lng": 85.29756014,
+    "photo": "1774074593955.jpg",
+    "desc": "Chrysanthemum indicum, or Wild Chrysanthemum, is a resilient perennial herb that thrives in temperate to subtropical climates with temperatures between 15ï¿½C and 25ï¿½C, requiring well-draining, slightly acidic soil and full sunlight to facilitate its r",
+    "uses": "?Culinary: The essential ingredient for authentic Key Lime pie, marinades, and tropical cocktails.\n?Essential Oils: Cold-pressed from the peel for use in aromatherapy, perfumes, and cleaning products.\n?Medicinal: Traditionally used in various cultures to"
+  },
+  {
+    "name": "Citrus aurantiifolia",
+    "lat": 27.70473001,
+    "lng": 85.29754155,
+    "photo": "1774074663517.jpg",
+    "desc": "Citrus aurantiifolia, commonly known as the Key Lime or Mexican Lime, is a small, thorny evergreen tree that thrives in warm, tropical and subtropical climates with temperatures between 20ï¿½C and 30ï¿½C, requiring full sun and well-draining, slightly ac",
+    "uses": "?Culinary: The essential ingredient for authentic Key Lime pie, marinades, and tropical cocktails.\n?Essential Oils: Cold-pressed from the peel for use in aromatherapy, perfumes, and cleaning products.\n?Medicinal: Traditionally used in various cultures to"
+  },
+  {
+    "name": "Rose",
+    "lat": 27.70469112,
+    "lng": 85.29754543,
+    "photo": "1774074738585.jpg",
+    "desc": "The Rose (Rosa), a diverse genus of woody perennials, thrives in temperate to subtropical climates with temperatures between 15ï¿½C and 28ï¿½C, requiring at least six hours of direct sunlight and well-draining, loamy soil with a pH of 6.0 to 6.8. Its gro",
+    "uses": "Ornamental: The world's most popular garden plant and a staple in professional landscaping.\n?Floral Industry: A multi-billion dollar cut-flower industry centered on symbols of love and celebration.\n?Fragrance: Essential oils (Attar of Rose) extracted fro"
+  },
+  {
+    "name": "Nerium oleander",
+    "lat": 27.70471895,
+    "lng": 85.29756281,
+    "photo": "1774074839452.jpg",
+    "desc": "Nerium oleander, commonly known as Oleander, is a rapid-growing evergreen shrub that thrives in warm, Mediterranean-style climates with temperatures between 10ï¿½C and 40ï¿½C, favoring full sunlight and remarkably well-draining, even poor or salty soils.",
+    "uses": "Landscaping: Widely used as a hardy highway median plant, windbreak, or ornamental screen.  \n?Urban Greenery: Thrives in harsh city conditions where air quality and heat reflect off pavement.\n?Erosion Control: Used on dry banks and coastal areas to stabi"
+  },
+  {
+    "name": "Spider plant",
+    "lat": 27.70471488,
+    "lng": 85.29755995,
+    "photo": "1774074973021.jpg",
+    "desc": "Chlorophytum comosum, commonly known as the Spider Plant, is a resilient evergreen perennial that thrives in warm, temperate to tropical climates with temperatures between 13ï¿½C and 27ï¿½C, requiring bright indirect sunlight and well-draining, loamy soi",
+    "uses": "Indoor Air Purification: Widely utilized in homes and offices to improve air quality naturally.  \n?Ornamental: Popular as a hanging basket plant due to its cascading \"pups\" and variegated foliage.  \n?Pet-Friendly Greenery: Non-toxic to cats and dogs, mak"
+  },
+  {
+    "name": "Lichen",
+    "lat": 27.70472554,
+    "lng": 85.29758379,
+    "photo": "1774075124906.jpg",
+    "desc": "Lichens, complex symbiotic organisms consisting of a fungus (the mycobiont) and an alga or cyanobacterium (the photobiont), thrive in virtually every terrestrial climate from polar tundras to tropical rainforests, requiring only intermittent moisture, li",
+    "uses": "Bioindicators: Extremely sensitive to air quality, specifically sulfur dioxide, and are used by scientists to map industrial pollution levels.\n?Dyes: Historically used to produce vibrant purples, reds, and browns for traditional textiles like Harris Twee"
+  },
+  {
+    "name": "silky oak",
+    "lat": 27.70472439,
+    "lng": 85.297571,
+    "photo": "1774075228390.jpg",
+    "desc": "Grevillea robusta, commonly known as the Silky Oak, is a fast-growing evergreen tree that thrives in warm-temperate to subtropical climates with temperatures between 10ï¿½C and 30ï¿½C, favoring full sun and well-draining, slightly acidic soils. Its growt",
+    "uses": "Timber Production: Highly valued for fine cabinet making, furniture, and musical instruments due to its silk-like figure.\n?Agroforestry: Frequently used as a shade tree for coffee and tea plantations in East Africa and South Asia.\n?Ornamental: Popular in"
+  },
+  {
+    "name": "Banana",
+    "lat": 27.7047686,
+    "lng": 85.29755138,
+    "photo": "1774075363026.jpg",
+    "desc": "The Banana (Musa), a giant herbaceous perennial often mistaken for a tree, thrives in humid tropical and subtropical climates with temperatures between 20ï¿½C and 30ï¿½C, requiring high rainfall and deep, well-draining volcanic or loamy soils rich in pot",
+    "uses": "Dietary Staple: A critical source of carbohydrates, potassium, and Vitamin B6 for millions globally.\n?Textile Fiber: Pseudo-stems are processed to create \"banana silk\" for high-quality paper and fabrics.\n?Culinary Versatility: Leaves are used as natural,"
+  },
+  {
+    "name": "Mother-of-Pearl Plant",
+    "lat": 27.70480775,
+    "lng": 85.29756596,
+    "photo": "1774075483746.jpg",
+    "desc": "Graptopetalum paraguayense, commonly known as the Ghost Plant or Mother-of-Pearl Plant, is a resilient succulent that thrives in arid to temperate climates with temperatures between 10ï¿½C and 30ï¿½C, requiring excellent drainage and bright sunlight to d",
+    "uses": "Xeriscaping: Ideal for water-wise rock gardens and succulent borders due to its high drought tolerance.\n?Vertical Gardening: Its trailing habit makes it a staple for living walls and \"spiller\" elements in mixed containers.\n?Indoor Decor: Thrives on sunny"
+  },
+  {
+    "name": "Garden Pansy",
+    "lat": 27.70480219,
+    "lng": 85.29761965,
+    "photo": "1774075790437.jpg",
+    "desc": "The Garden Pansy (Viola ï¿½ wittrockiana), a charming cool-weather biennial typically grown as an annual, thrives in temperate climates with temperatures between 5ï¿½C and 20ï¿½C, requiring full sun to partial shade and rich, moist, well-draining organic",
+    "uses": "Ornamental: A staple for early-spring and late-autumn bedding, window boxes, and mass plantings.\n?Culinary: The flowers are entirely edible and frequently used as colorful garnishes for salads, desserts, and cocktails.\n?Medicinal: Historically utilized i"
+  },
+  {
+    "name": "Guava",
+    "lat": 27.70482026,
+    "lng": 85.29762982,
+    "photo": "1774075938977.jpg",
+    "desc": "The Guava (Psidium guajava), a resilient and highly productive tropical tree, thrives in warm climates with temperatures between 20ï¿½C and 30ï¿½C, requiring full sun and well-draining, loamy soil with a pH of 5.0 to 7.0. Its growth pattern is characteri",
+    "uses": "Nutritional: A \"superfood\" consumed fresh, juiced, or as a concentrated source of dietary fiber and pectin.\n?Culinary: The high pectin content makes it the global standard for producing thick \"guava cheese,\" jellies, and pastes (goiabada).\n?Medicinal: Le"
+  },
+  {
+    "name": "Jamun(syzgium jambos)",
+    "lat": 27.70483695,
+    "lng": 85.29765245,
+    "photo": "1774076035014.jpg",
+    "desc": "Syzygium jambos, commonly known as the Rose Apple or Malabar Plum, is a decorative and fruit-bearing evergreen tree that thrives in tropical and subtropical climates with temperatures between 18ï¿½C and 30ï¿½C, requiring full sun to partial shade and dee",
+    "uses": "Culinary: Consumed fresh, used in salads, or stewed with sugar to preserve its delicate floral fragrance.\n?Medicinal: Leaf and bark decoctions are traditionally used in Southeast Asia for their astringent, anti-inflammatory, and diuretic properties.\n?Lan"
+  },
+  {
+    "name": "Glebionis  coronaria",
+    "lat": 27.70484065,
+    "lng": 85.29766402,
+    "photo": "1774076244610.jpg",
+    "desc": "Glebionis coronaria, commonly known as the Garland Chrysanthemum or Shungiku, is an aromatic annual herb that thrives in cool-to-mild temperate climates with temperatures between 10ï¿½C and 25ï¿½C, requiring full sun and well-draining, fertile loamy soil",
+    "uses": "Culinary: A staple \"pot herb\" in East Asian cuisines, particularly in hot pots (sukiyaki), soups, and tempura.  \n?Ornamental: Frequently used in \"wildflower\" seed mixes and cottage gardens for its bright, prolific spring blooms.  \n?Medicinal: Traditional"
+  },
+  {
+    "name": "Citrus aurantiifolia",
+    "lat": 27.70485578,
+    "lng": 85.29767546,
+    "photo": "1774076523481.jpg",
+    "desc": "Citrus aurantiifolia, commonly known as the Key Lime or Mexican Lime, is a small, thorny evergreen tree that thrives in warm, tropical and subtropical climates with temperatures between 20ï¿½C and 30ï¿½C, requiring full sun and well-draining, slightly ac",
+    "uses": "?Culinary: The essential ingredient for authentic Key Lime pie, marinades, and tropical cocktails.\n?Essential Oils: Cold-pressed from the peel for use in aromatherapy, perfumes, and cleaning products.\n?Medicinal: Traditionally used in various cultures to"
+  },
+  {
+    "name": "Aloe vera",
+    "lat": 27.70487535,
+    "lng": 85.29766941,
+    "photo": "1774076593817.jpg",
+    "desc": "Aloe vera, a succulent perennial belonging to the Asphodelaceae family, thrives in arid to subtropical climates with temperatures between 13ï¿½C and 27ï¿½C, requiring full sun to bright indirect light and exceptionally well-draining, sandy or gravelly so",
+    "uses": "Dermatological: The clear inner gel is globally recognized for its ability to soothe burns, hydrate skin, and accelerate wound healing.\n?Cosmetic: A foundational ingredient in thousands of lotions, soaps, and shampoos for its emollient properties.\n?Nutri"
+  },
+  {
+    "name": "Snake plant",
+    "lat": 27.70486355,
+    "lng": 85.29769121,
+    "photo": "1774076712233.jpg",
+    "desc": "Dracaena trifasciata (formerly Sansevieria trifasciata), commonly known as the Snake Plant or Mother-in-Lawï¿½s Tongue, is an exceptionally hardy evergreen perennial that thrives in arid to tropical climates with temperatures between 15ï¿½C and 30ï¿½C, r",
+    "uses": "Indoor Air Purification: Renowned for its ability to filter indoor toxins such as benzene, formaldehyde, trichloroethylene, and xylene.\n?Xeriscaping: Used in drought-tolerant landscapes and rock gardens for its structural verticality and low water needs."
+  },
+  {
+    "name": "Kurilo",
+    "lat": 27.70485481,
+    "lng": 85.29770429,
+    "photo": "1774076814299.jpg",
+    "desc": "Asparagus racemosus, commonly known as Kurilo or Shatavari, is a hardy perennial climbing plant that thrives in tropical and subtropical climates with temperatures between 15ï¿½C and 35ï¿½C, requiring well-draining, fertile sandy-loam soil with a pH of 6",
+    "uses": "Medicinal: Highly valued in Ayurveda as a \"Rasayana\" (rejuvenating herb) for its adaptogenic, galactagogue, and immune-boosting properties.\n?Nutritional: The young, tender shoots are consumed as a high-value vegetable in Nepal and India, rich in minerals"
+  },
+  {
+    "name": "Ocimum tenuiflorum",
+    "lat": 27.70484201,
+    "lng": 85.2976802,
+    "photo": "1774076894121.jpg",
+    "desc": "Ocimum tenuiflorum (synonym Ocimum sanctum), commonly known as Holy Basil or Tulsi, is an aromatic perennial subshrub that thrives in tropical and subtropical climates with temperatures between 20ï¿½C and 35ï¿½C, requiring full sun and well-draining, fer",
+    "uses": "Adaptogenic Medicine: Highly valued in Ayurveda for its ability to reduce cortisol levels, enhance respiratory health, and boost immunity.\n?Culinary: Used primarily in herbal teas (Tulsi tea) and as a spicy, clove-like flavoring in Southeast Asian stir-f"
+  },
+  {
+    "name": "Eriobotrya japonica",
+    "lat": 27.70484211,
+    "lng": 85.29772893,
+    "photo": "1774084321122.jpg",
+    "desc": "Eriobotrya japonica, commonly known as the Loquat or Japanese Plum, is a robust evergreen fruit tree that thrives in subtropical to mild temperate climates with temperatures between 15ï¿½C and 25ï¿½C, requiring full sun and well-draining, fertile loamy s",
+    "uses": "Nutritional: Consumed fresh or processed into jams and light syrups; it is exceptionally high in Vitamin A and manganese.\n?Medicinal: Loquat leaf extract is a pharmacologically standardized ingredient in traditional syrups (such as Pei Pa Koa) used to tr"
+  },
+  {
+    "name": "Vanda orchid",
+    "lat": 27.70490037,
+    "lng": 85.29768611,
+    "photo": "1774084872382.jpg",
+    "desc": "Vanda orchids are extraordinary epiphytic plants that thrive in warm, tropical climates with high humidity and temperatures between 18ï¿½C and 30ï¿½C, requiring bright, filtered light and constant air circulation around their unique, aerial root systems.",
+    "uses": "Ornamental: Popular as high-end houseplants and hanging garden displays.\n?Floral Industry: Widely used in leis, corsages, and luxury bouquets due to their long-lasting blooms.\n?Hybridization: Frequently cross-bred by hobbyists to create unique color patt"
+  },
+  {
+    "name": "Epiphytes(Pyrrossia  lanceolata)",
+    "lat": 27.70490086,
+    "lng": 85.29768494,
+    "photo": "1774085010521.jpg",
+    "desc": "Pyrrosia lanceolata, commonly known as the Lance-leaf Felt Fern, is a resilient epiphytic or lithophytic fern that thrives in humid tropical and subtropical climates with temperatures between 18ï¿½C and 30ï¿½C, requiring high humidity and partial to deep",
+    "uses": "Ornamental Gardening: Highly valued in \"vertical gardens\" and ferneries for its ability to cover walls or driftwood with a lush, green carpet.\n?Medicinal: In traditional Chinese and Southeast Asian medicine, decoctions are used for their diuretic propert"
+  },
+  {
+    "name": "Jamun(Syzgium jambos)",
+    "lat": 27.70488624,
+    "lng": 85.29762612,
+    "photo": "1774085148304.jpg",
+    "desc": "Syzygium jambos, commonly known as the Rose Apple or Malabar Plum, is a decorative and fruit-bearing evergreen tree that thrives in tropical and subtropical climates with temperatures between 18ï¿½C and 30ï¿½C, requiring full sun to partial shade and dee",
+    "uses": "Culinary: Consumed fresh, used in salads, or stewed with sugar to preserve its delicate floral fragrance.\n?Medicinal: Leaf and bark decoctions are traditionally used in Southeast Asia for their astringent, anti-inflammatory, and diuretic properties.\n?Lan"
+  },
+  {
+    "name": "Calla lily",
+    "lat": 27.70475798,
+    "lng": 85.29768058,
+    "photo": "1774085472706.jpg",
+    "desc": "The Calla Lily (Zantedeschia aethiopica), a sophisticated perennial belonging to the Araceae family, thrives in mild-temperate to subtropical climates with temperatures between 15ï¿½C and 25ï¿½C, requiring full sun to partial shade and consistently moist",
+    "uses": "?Floristry: One of the most sought-after cut flowers globally for wedding bouquets and high-end floral arrangements due to its elegant, architectural form.\n?Landscape Design: Utilized in \"bog gardens\" or pond margins because of its ability to thrive in w"
+  },
+  {
+    "name": "Duranta",
+    "lat": 27.70473873,
+    "lng": 85.29766302,
+    "photo": "1774086196573.jpg",
+    "desc": "Duranta erecta, commonly known as Golden Dewdrop or Pigeon Berry, is a vigorous evergreen shrub belonging to the Verbenaceae family. It thrives in tropical and subtropical climates with temperatures between 18ï¿½C and 32ï¿½C, requiring full sun to mainta",
+    "uses": "Horticultural Screening: Widely used as a fast-growing \"living fence\" or formal hedge due to its tolerance for heavy pruning.\n?Pollinator Support: Exceptionally attractive to butterflies and bees, making it a cornerstone of tropical pollinator gardens.\n?"
+  },
+  {
+    "name": "Chinese Dubo",
+    "lat": 27.70475081,
+    "lng": 85.29764107,
+    "photo": "1774086387519.jpg",
+    "desc": "Trachelospermum jasminoides, commonly known as Confederate Jasmine or Star Jasmine (often referred to as \"Chinese Dubo\" or \"Chinese Chameri\" in South Asian nurseries), is a versatile evergreen woody climber that thrives in subtropical to temperate climat",
+    "uses": "Vertical Landscaping: Widely utilized to cover fences, trellises, and walls, creating a \"living green wall\" with intense seasonal fragrance.\n?Groundcover: Frequently used in large-scale commercial landscaping to stabilize soil and suppress weeds in shade"
+  },
+  {
+    "name": "Spider plant",
+    "lat": 27.70471453,
+    "lng": 85.29762314,
+    "photo": "1774086547418.jpg",
+    "desc": "Chlorophytum comosum, commonly known as the Spider Plant, is a resilient evergreen perennial that thrives in warm, temperate to tropical climates with temperatures between 13ï¿½C and 27ï¿½C, requiring bright indirect sunlight and well-draining, loamy soi",
+    "uses": "Indoor Air Purification: Widely utilized in homes and offices to improve air quality naturally.  \n?Ornamental: Popular as a hanging basket plant due to its cascading \"pups\" and variegated foliage.  \n?Pet-Friendly Greenery: Non-toxic to cats and dogs, mak"
+  },
+  {
+    "name": "Amaryllis",
+    "lat": 27.70470257,
+    "lng": 85.29763052,
+    "photo": "1774086659217.jpg",
+    "desc": "Amaryllis (Hippeastrum), a striking bulbous perennial, thrives in warm, subtropical climates with temperatures between 18ï¿½C and 25ï¿½C, requiring bright, indirect sunlight and well-draining, loamy soil to trigger its spectacular flowering cycle. Its gr",
+    "uses": "Ornamental: Widely used as a festive indoor potted plant for winter \"forcing.\"\n?Landscape: Planted in warm-climate gardens for dramatic spring borders.\n?Floral Design: Highly valued as a long-lasting cut flower in high-end arrangements.\n?Symbolism: Frequ"
+  },
+  {
+    "name": "Aloe jucunda",
+    "lat": 27.70468625,
+    "lng": 85.29761965,
+    "photo": "1774086786131.jpg",
+    "desc": "Aloe jucunda, a rare and visually striking succulent endemic to a small limestone plateau in northern Somalia, thrives in arid, tropical climates with temperatures between 15ï¿½C and 30ï¿½C, requiring very bright indirect light to full sun and exceptiona",
+    "uses": "Specialist Collections: Highly prized by succulent enthusiasts and \"caudiciform\" collectors for its miniature size and geometric leaf patterns.\n?Rockery Accents: Used in small-scale \"crevice gardens\" or troughs where its clumping nature can be highlighte"
+  },
+  {
+    "name": "Aloe vera",
+    "lat": 27.70469673,
+    "lng": 85.29763227,
+    "photo": "1774086946920.jpg",
+    "desc": "Aloe vera, a succulent perennial belonging to the Asphodelaceae family, thrives in arid to subtropical climates with temperatures between 13ï¿½C and 27ï¿½C, requiring full sun to bright indirect light and exceptionally well-draining, sandy or gravelly so",
+    "uses": "Dermatological: The clear inner gel is globally recognized for its ability to soothe burns, hydrate skin, and accelerate wound healing.\n?Cosmetic: A foundational ingredient in thousands of lotions, soaps, and shampoos for its emollient properties.\n?Nutri"
+  },
+  {
+    "name": "Bhogate(Pomelo)",
+    "lat": 27.70468281,
+    "lng": 85.29765818,
+    "photo": "1774088321605.jpg",
+    "desc": "Citrus maxima (or Citrus grandis), commonly known as the Pomelo or Shaddock, is the largest of all citrus fruits. it thrives in tropical and subtropical climates with temperatures between 25ï¿½C and 30ï¿½C, requiring full sun and deep, well-draining sand",
+    "uses": "Nutritional: Consumed fresh for its sweet, mild segments that are less acidic than grapefruit; it is an excellent source of Vitamin C and potassium.\n?Culinary: The thick rind is frequently candied, used in marmalades, or braised in savory Chinese \"pith\""
+  },
+  {
+    "name": "Mango",
+    "lat": 27.70461186,
+    "lng": 85.2976125,
+    "photo": "1774088481730.jpg",
+    "desc": "Mangifera indica, commonly known as the Mango, is a long-lived tropical stone fruit tree that thrives in warm climates with temperatures between 24ï¿½C and 30ï¿½C, requiring a distinct dry season to stimulate flowering and deep, well-draining alluvial or",
+    "uses": "Global Nutrition: A primary source of Vitamin A, Vitamin C, and dietary fiber for billions, consumed fresh, dried, or as pulp.\n?Industrial Processing: Utilized for high-value exports including purï¿½es, concentrates, and \"Amchur\" (dried green mango powde"
+  },
+  {
+    "name": "Salla (pine)",
+    "lat": 27.7046052,
+    "lng": 85.29756757,
+    "photo": "1774088611020.jpg",
+    "desc": "Pinus roxburghii, commonly known as Salla or Chir Pine, is a hardy, light-demanding conifer that thrives in the subtropical and warm-temperate belts of the Himalayas at altitudes between 500 and 2,500 meters, requiring well-draining, acidic to neutral sa",
+    "uses": "?Industrial Resin: A primary source of oleoresin in South Asia, distilled to produce high-grade Turpentine and Rosin for paints and varnishes.\n?Construction Timber: The wood is moderately hard and extensively used for house building, rafters, poles, and"
+  },
+  {
+    "name": "Swami",
+    "lat": 27.7045727,
+    "lng": 85.29759704,
+    "photo": "1774088716593.jpg",
+    "desc": "Ficus benjamina, commonly known as the Weeping Fig, is a versatile evergreen tree belonging to the Moraceae family. It thrives in tropical and subtropical climates with temperatures between 18ï¿½C and 24ï¿½C, requiring bright indirect light and well-drai",
+    "uses": "Interior Landscaping: One of the most popular indoor trees globally due to its elegant form and tolerance for indoor humidity levels.\n?Air Purification: Recognized by NASA for its ability to effectively filter indoor toxins, specifically formaldehyde, be"
+  },
+  {
+    "name": "Bougainvillea",
+    "lat": 27.70460012,
+    "lng": 85.2977074,
+    "photo": "1774088913862.jpg",
+    "desc": "Bougainvillea spectabilis (and its numerous hybrids), commonly known as Bougainvillea or Kagaj Phool, is a vigorous, thorny woody vine that thrives in tropical and subtropical climates with temperatures between 15ï¿½C and 35ï¿½C, requiring full sun and e",
+    "uses": "Ornamental Landscaping: Widely used as a colorful cover for boundary walls, gates, and pergolas due to its rapid growth and drought tolerance.\n?Security Fencing: Planted as a \"living barrier\" because its dense, thorny branches provide an effective natura"
+  },
+  {
+    "name": "Bougainvillea",
+    "lat": 27.70466772,
+    "lng": 85.29774099,
+    "photo": "1774089088344.jpg",
+    "desc": "Bougainvillea spectabilis (and its numerous hybrids), commonly known as Bougainvillea or Kagaj Phool, is a vigorous, thorny woody vine that thrives in tropical and subtropical climates with temperatures between 15ï¿½C and 35ï¿½C, requiring full sun and e",
+    "uses": "Ornamental Landscaping: Widely used as a colorful cover for boundary walls, gates, and pergolas due to its rapid growth and drought tolerance.\n?Security Fencing: Planted as a \"living barrier\" because its dense, thorny branches provide an effective natura"
+  },
+  {
+    "name": "Aloe jucunda",
+    "lat": 27.7047319,
+    "lng": 85.2977699,
+    "photo": "1774089149636.jpg",
+    "desc": "Aloe jucunda, a rare and visually striking succulent endemic to a small limestone plateau in northern Somalia, thrives in arid, tropical climates with temperatures between 15ï¿½C and 30ï¿½C, requiring very bright indirect light to full sun and exceptiona",
+    "uses": "Specialist Collections: Highly prized by succulent enthusiasts and \"caudiciform\" collectors for its miniature size and geometric leaf patterns.\n?Rockery Accents: Used in small-scale \"crevice gardens\" or troughs where its clumping nature can be highlighte"
+  },
+  {
+    "name": "Rose",
+    "lat": 27.70474185,
+    "lng": 85.29777451,
+    "photo": "1774089230825.jpg",
+    "desc": "Rosa species, a diverse genus of woody perennials belonging to the Rosaceae family, thrive in temperate to subtropical climates with temperatures between 15ï¿½C and 28ï¿½C, requiring at least 6 hours of full sun and well-draining, nutrient-rich loamy soi",
+    "uses": "Floristry: The world's most commercially significant cut flower, symbolizing various emotions through a standardized color language.\n?Perfumery: Essential oils (Attar of Roses) are steam-distilled from petals, requiring approximately 4,000 kg of flowers"
+  },
+  {
+    "name": "Fishbone Fern",
+    "lat": 27.70473753,
+    "lng": 85.29777362,
+    "photo": "1774089310329.jpg",
+    "desc": "Nephrolepis cordifolia, commonly known as Pani Amala or Fishbone Fern, is a highly resilient terrestrial or epiphytic fern that thrives in tropical and subtropical climates with temperatures between 18ï¿½C and 28ï¿½C, requiring high humidity, partial sha",
+    "uses": "Ornamental Gardening: Extensively used in hanging baskets, rock gardens, and as a lush groundcover in shaded landscape zones.\n?Ecological Restoration: Acts as a rapid colonizer of damp stone walls and forest floors, helping to stabilize soil and retain m"
+  },
+  {
+    "name": "Pomegranate",
+    "lat": 27.70480626,
+    "lng": 85.29776029,
+    "photo": "1774089529153.jpg",
+    "desc": "Punica granatum, commonly known as the Pomegranate or Anar, is a long-lived deciduous shrub or small tree belonging to the Lythraceae family. It thrives in arid to subtropical climates with temperatures between 25ï¿½C and 35ï¿½C, requiring full sun and w",
+    "uses": "Nutritional: High-value fruit consumed for its antioxidant-rich arils, providing significant levels of Vitamin C, Vitamin K, and folate.\n?Medicinal: The peel and root bark contain high concentrations of punicalagins and alkaloids, used traditionally to t"
+  },
+  {
+    "name": "Litchi",
+    "lat": 27.70470538,
+    "lng": 85.29760429,
+    "photo": "1774086254958.jpg",
+    "desc": "Litchi thrives in sub-tropical climates characterized by frost-free winters and long, hot, humid summers, requiring a distinct cool period to trigger the flowering process. Its growth pattern follows a seasonal cycle where lush, evergreen flushes of bron",
+    "uses": "Culinary: Enjoyed fresh as a dessert fruit, or processed into juices, jellies, and traditional sun-dried \"litchi nuts.\"\nMedicinal: In various cultures, parts of the plant are used in traditional remedies to treat throat ailments and stomach issues.\nEcono"
+  },
+  {
+    "name": "Guava",
+    "lat": 27.70462349,
+    "lng": 85.29770376,
+    "photo": "1774086395492.jpg",
+    "desc": "Guava is a remarkably hardy plant that flourishes in tropical and sub-tropical climates, preferring well-drained soil and plenty of sunshine to produce its best fruit. Its growth pattern is distinctive, featuring a spreading, shrub-like tree with smooth,",
+    "uses": "Primary Uses of Guava:\nNutritional: Eaten fresh (often with a pinch of salt and chili) or processed into high-pectin jams, jellies, and refreshing nectars.\nMedicinal: The young leaves are widely used in traditional tea infusions to treat diarrhea, tootha"
+  },
+  {
+    "name": "Avocado",
+    "lat": 27.70463757,
+    "lng": 85.29762532,
+    "photo": "1774086593516.jpg",
+    "desc": "Avocado trees thrive in warm, subtropical to tropical climates with well-drained, aerated soil, as they are notoriously sensitive to \"wet feet\" and frost. Their growth pattern is fascinatingly unique; they are categorized into Type A and Type B flowering",
+    "uses": "Primary Uses of Avocado:\nCulinary: Widely consumed fresh in salads, toast, and guacamole, or blended into creamy smoothies and desserts.\nCosmetic: The nutrient-rich oil is a staple in high-end skincare and hair masks for its deep moisturizing and Vitamin"
+  },
+  {
+    "name": "Jade plant (Crassula ovata )",
+    "lat": 27.70474471,
+    "lng": 85.29764598,
+    "photo": "1774086678854.jpg",
+    "desc": "Crassula ovata, commonly known as the Jade Plant, thrives in dry, temperate-to-warm climates with plenty of sunlight and well-draining, gritty soil. Its growth pattern is characterized by a thick, woody trunk and fleshy, oval-shaped succulent leaves that",
+    "uses": "Primary Uses of Jade Plant:\nOrnamental: A popular choice for indoor dï¿½cor and xeriscaping due to its \"bonsai-like\" appearance and low maintenance.\nCultural: Frequently gifted as a \"housewarming\" plant to symbolize friendship and attract wealth or posit"
+  },
+  {
+    "name": "Mondo grass",
+    "lat": 27.70473425,
+    "lng": 85.29773402,
+    "photo": "1774086914929.jpg",
+    "desc": "Mondo grass (Ophiopogon japonicus) flourishes in temperate to tropical climates, showing remarkable adaptability to both deep shade and filtered sunlight while preferring moist, well-drained soil. Unlike true grasses, its growth pattern consists of slow-",
+    "uses": "Landscaping: Widely used as a low-maintenance lawn substitute, \"steppable\" groundcover between pavers, or a sleek border for garden paths.\nErosion Control: Its dense, fibrous root system is excellent for stabilizing soil on slopes and preventing runoff i"
+  },
+  {
+    "name": "Palm grass (Curculigo capitulata)",
+    "lat": 27.70460215,
+    "lng": 85.29756497,
+    "photo": "1774088373777.jpg",
+    "desc": "Curculigo capitulata, often called Palm Grass, flourishes in humid, tropical to sub-tropical climates, preferring shaded understories and moist, organic soils. Its growth pattern is striking, featuring wide, pleated leaves that emerge from a central base",
+    "uses": "Primary Uses of Curculigo:\nOrnamental: Highly valued as a bold, architectural groundcover or container plant for bringing a \"jungle\" feel to shaded gardens and patios.\nFiber Production: In several Asian cultures, the tough, longitudinal fibers from the l"
+  },
+  {
+    "name": "Phyrnium  pubinerve",
+    "lat": 27.70476099,
+    "lng": 85.29768033,
+    "photo": "1774088627619.jpg",
+    "desc": "Phrynium pubinerve flourishes in humid, tropical, and sub-tropical climates, preferring the deep shade and moist, organic-rich soils of forest understories. Its growth pattern is characterized by large, elegant, oblong leaves on long, slender stalks that",
+    "uses": "Primary Uses of Phrynium:\nCulinary: The broad, durable, and waxy leaves are traditionally used across South and Southeast Asia as a natural, aromatic wrap for steaming or grilling fish, rice, and meats.\nPackaging: Serves as an eco-friendly, biodegradable"
+  },
+  {
+    "name": "Agave ( Elephant's Trunk)",
+    "lat": 27.70461988,
+    "lng": 85.29761798,
+    "photo": "1774088802237.jpg",
+    "desc": "Agave attenuata, commonly known as the \"Elephant's Trunk\" or Fox Tail Agave, flourishes in warm, frost-free climates with plenty of sunlight and gritty, fast-draining soil. Its growth pattern is uniquely elegant, featuring a thick, trunk-like stem that c",
+    "uses": "Primary Uses of Elephant's Trunk Agave:\nLandscaping: Highly prized as a focal \"accent plant\" in rock gardens, xeriscapes, and modern architectural landscapes.\nErosion Control: Its robust root system and ability to grow in clumps help stabilize dry, sandy"
+  },
+  {
+    "name": "Prickly Pear(Opuntia tuna)",
+    "lat": 27.70457622,
+    "lng": 85.29773607,
+    "photo": "1774089162315.jpg",
+    "desc": "Opuntia tuna thrives in arid, subtropical to tropical climates, demanding full sun and extremely well-drained, sandy soil to prevent root rot. Its growth pattern is iconic, consisting of flattened, fleshy green segments called cladodes (pads) that act as",
+    "uses": "Primary Uses of Opuntia tuna:\nCulinary: The ripe fruits (tunas) are eaten fresh or made into jams, while the young, tender pads (nopales) are cleaned of spines and used in savory vegetable dishes.\nAgricultural: Often planted as a \"living fence\" or thorny"
+  },
+  {
+    "name": "Brugmansia( Angels Trumpet)",
+    "lat": 27.70467546,
+    "lng": 85.29771322,
+    "photo": "1774089396883.jpg",
+    "desc": "Brugmansia, commonly known as Angel's Trumpet, flourishes in warm, humid subtropical to tropical climates, requiring abundant water and rich, well-drained soil to support its rapid growth. Its growth pattern is that of a vigorous, woody shrub or small tr",
+    "uses": "Primary Uses of Angelï¿½s Trumpet:\nOrnamental: Highly prized as a dramatic focal point in tropical gardens and large containers for its unparalleled floral display.\nMedicinal: In strictly controlled traditional practices, leaf poultices are sometimes use"
+  },
+  {
+    "name": "Birds of Paradise",
+    "lat": 27.70477961,
+    "lng": 85.29772787,
+    "photo": "1774089534678.jpg",
+    "desc": "Strelitzia reginae thrives in warm, subtropical to tropical climates, preferring full sun to partial shade and rich, well-drained soil. Its growth pattern is slow and steady, emerging from thick, underground rhizomes to produce stiff, leathery, blue-gree",
+    "uses": "Primary Uses of Bird of Paradise:\nLandscaping: Used as a premium architectural plant to create a \"tropical look\" in gardens, poolsides, and entryways.\nFloral Industry: Highly valued in commercial floristry for its striking, long-lasting blooms that can s"
+  },
+  {
+    "name": "Never Never Plant",
+    "lat": 27.70482229,
+    "lng": 85.29771962,
+    "photo": "1774089803393.jpg",
+    "desc": "Ctenanthe oppenheimiana, commonly known as the Never-Never Plant, flourishes in humid, sub-tropical to tropical climates, preferring the dappled shade of forest floors and consistently moist, well-draining soil. Its growth pattern is elegant and clumping",
+    "uses": "Primary Uses of Never-Never Plant:\nOrnamental: Highly valued as a decorative \"foliage plant\" for adding dramatic color and texture to shaded garden corners or indoor spaces.\nAir Purification: Like many of its relatives in the Marantaceae family, it is ex"
+  },
+  {
+    "name": "Lad's Love ( Artemisia abrotanum)",
+    "lat": 27.70478008,
+    "lng": 85.29775517,
+    "photo": "1774089973244.jpg",
+    "desc": "Artemisia abrotanum, commonly known as Lad's Love or Southernwood, flourishes in temperate to sub-tropical climates, requiring full sun and well-drained, somewhat gritty soil to maintain its compact form. Its growth pattern is that of a hardy, semi-everg",
+    "uses": "Primary Uses of Lad's Love:\nOrnamental: Highly valued as a fragrant border plant or low hedge in \"sensory gardens\" for its soft, touchable texture and silvery color.\nPest Control: The dried leaves are used in sachets to protect clothing from moths and as"
+  },
+  {
+    "name": "Pink Jasmine",
+    "lat": 27.70468305,
+    "lng": 85.29782589,
+    "photo": "1774090202450.jpg",
+    "desc": "Jasminum polyanthum thrives in sub-tropical to temperate climates, requiring cool winter temperatures to stimulate its massive spring flowering and preferring a spot with bright, indirect sunlight and moist, well-drained soil. Its growth pattern is incre",
+    "uses": "Primary Uses of Pink Jasmine:\nLandscaping: Widely used as a fragrant \"living screen\" for covering fences, trellises, and unsightly walls with a blanket of white flowers.\nOrnamental: A popular choice for indoor hanging baskets or indoor topiary hoops due"
+  },
+  {
+    "name": "Poinsettia",
+    "lat": 27.7045546,
+    "lng": 85.29770566,
+    "photo": "1774090390522.jpg",
+    "desc": "Euphorbia pulcherrima, famously known as the Poinsettia, flourishes in mild, sub-tropical to tropical climates, requiring bright, filtered sunlight and well-drained soil to maintain its vibrant appearance. Its growth pattern is that of a deciduous shrub",
+    "uses": "Primary Uses of Poinsettia:\nOrnamental: Globally recognized as the premier decorative plant for winter holidays and festive floral displays.\nLandscaping: In frost-free regions, they are used as striking flowering hedges or large garden shrubs for a burst"
+  },
+  {
+    "name": "Yellow Flax",
+    "lat": 27.70488203,
+    "lng": 85.29772221,
+    "photo": "1774090803850.jpg",
+    "desc": "Reinwardtia indica, commonly known as Yellow Flax or Pyoli, flourishes in subtropical to temperate climates, thriving in sunny to partially shaded spots with well-drained, fertile soil. Its growth pattern is that of a low-branching, evergreen shrub that",
+    "uses": "Primary Uses of Yellow Flax:\nOrnamental: Highly valued as a \"winter-bloomer\" for adding a splash of brilliant yellow to gardens when most other plants are dormant.\nLandscaping: Frequently used as a colorful low hedge or border plant to define garden path"
+  },
+  {
+    "name": "Primrose Jasmine",
+    "lat": 27.70467097,
+    "lng": 85.29778367,
+    "photo": "1774090983462.jpg",
+    "desc": "Jasminum mesnyi, commonly known as Primrose Jasmine, flourishes in sub-tropical to temperate climates, requiring full sun to partial shade and well-drained, fertile soil. Its growth pattern is that of a sprawling, evergreen shrub with long, arching, four",
+    "uses": "Primary Uses of Primrose Jasmine:\nLandscaping: Frequently used as a \"spilling\" groundcover for embankments, a weeping hedge, or trained upward on trellises and fences.\nErosion Control: Its robust, arching branches and dense root system make it excellent"
+  },
+  {
+    "name": "Garlic Vine",
+    "lat": 27.70484325,
+    "lng": 85.2977815,
+    "photo": "1774091324551.jpg",
+    "desc": "Mansoa alliacea, commonly known as the Garlic Vine, flourishes in humid, tropical to sub-tropical climates, requiring full sun to partial shade and fertile, well-drained soil. Its growth pattern is that of a vigorous, woody evergreen climber that uses te",
+    "uses": "Primary Uses of Garlic Vine:\nCulinary: In several Amazonian and Southeast Asian cultures, the garlic-scented leaves are used as a flavorful substitute for real garlic in stews and savory dishes.\nMedicinal: Traditionally used in folk medicine to treat res"
+  },
+  {
+    "name": "Guava",
+    "lat": 27.70481888,
+    "lng": 85.29769753,
+    "photo": "1774091546472.jpg",
+    "desc": "Guava (Psidium guajava) flourishes in tropical and sub-tropical climates, preferring well-drained soil and plenty of sunshine to produce its best fruit. Its growth pattern is distinctive, featuring a spreading, shrub-like tree with smooth, copper-colored",
+    "uses": "Primary Uses of Guava:\nNutritional: Eaten fresh (often with a pinch of salt and chili) or processed into high-pectin jams, jellies, and refreshing nectars.\nMedicinal: The young leaves are widely used in traditional tea infusions to treat diarrhea, tootha"
+  },
+  {
+    "name": "Sour orange",
+    "lat": 27.70491895,
+    "lng": 85.29774889,
+    "photo": "1774091760993.jpg",
+    "desc": "Sour orange flourishes in subtropical to tropical climates, showing remarkable tolerance for both high heat and moderate frost compared to its sweeter relatives. Its growth pattern is that of a vigorous, medium-sized evergreen tree with a compact, rounde",
+    "uses": "Primary Uses of Sour Orange:\nCulinary: The high pectin and acid content make it the gold standard for authentic marmalades, liqueurs (like Triple Sec), and traditional meat marinades.\nPerfumery: The blossoms are steam-distilled to produce Neroli oil, whi"
+  },
+  {
+    "name": "Paradise Apple",
+    "lat": 27.70490067,
+    "lng": 85.29770091,
+    "photo": "1774092141037.jpg",
+    "desc": "Malus pumila var. paradisiaca, commonly known as the Paradise Apple or Dwarf Apple, flourishes in temperate to sub-tropical climates, requiring a period of winter chill to trigger its spring blossoms and preferring well-drained, loamy soil. Its growth pa",
+    "uses": "Primary Uses of Paradise Apple:\nRootstock: Historically the primary source for \"dwarfing\" apple trees, allowing commercial growers to plant high-density orchards that are easier to harvest.\nOrnamental: Highly valued as a decorative \"flowering crabapple\""
+  },
+  {
+    "name": "Japanese persimmon",
+    "lat": 27.70496538,
+    "lng": 85.29771492,
+    "photo": "1774092460416.jpg",
+    "desc": "Diospyros kaki, commonly known as the Oriental or Japanese Persimmon, flourishes in subtropical to temperate climates, requiring a distinct period of winter chilling to set fruit and preferring deep, well-drained loamy soils. Its growth pattern is that o",
+    "uses": "Culinary: Eaten fresh as a sweet dessert, dried into traditional \"Hoshigaki,\" or used in puddings, jams, and baked goods for its honey-like flavor.\nOrnamental: Highly valued in landscapes for its dramatic fall foliage and the striking visual of bright or"
+  },
+  {
+    "name": "Amala",
+    "lat": 27.70495294,
+    "lng": 85.29777792,
+    "photo": "1774092595635.jpg",
+    "desc": "Phyllanthus emblica, universally known as Amala or Amla, flourishes in subtropical to tropical climates, thriving in full sun and well-drained, loamy to slightly sandy soils. Its growth pattern is that of a small to medium-sized deciduous tree with a uni",
+    "uses": "Primary Uses of Amala:\nNutritional: Eaten fresh with salt, pickled (Achar), or preserved in sugar syrup (Murabba) to balance its natural tartness.\nMedicinal: A cornerstone of traditional Ayurvedic practices, it is the primary ingredient in \"Chyawanprash\""
+  },
+  {
+    "name": "Cherry Plum",
+    "lat": 27.70483658,
+    "lng": 85.2977001,
+    "photo": "1774093090080.jpg",
+    "desc": "Prunus cerasifera, commonly known as the Cherry Plum or Myrobalan Plum, flourishes in temperate to sub-tropical climates, requiring full sun to partial shade and well-drained, fertile soil. Its growth pattern is that of a small, deciduous tree or large m",
+    "uses": "Primary Uses of Cherry Plum:\nRootstock: Highly valued globally as a vigorous, disease-resistant rootstock for grafting many commercial plum, apricot, and almond varieties.  \nCulinary: The small, vibrant red or yellow fruits are traditionally used to make"
+  },
+  {
+    "name": "Ficus retusa",
+    "lat": 27.70501258,
+    "lng": 85.29769425,
+    "photo": "1774093656419.jpg",
+    "desc": "Ficus retusa, often grouped with the closely related Ficus microcarpa, flourishes in tropical to sub-tropical climates, thriving in full sun to partial shade and adaptable to a wide range of soil types, including rocky or poor soils. Its growth pattern i",
+    "uses": "Primary Uses of Ficus retusa:\nLandscaping: Widely planted as a majestic \"shade tree\" in parks, temple courtyards, and along wide avenues due to its dense, cooling foliage.\nOrnamental: A global favorite for indoor \"bonsai\" cultivation, as it can adapt to"
+  },
+  {
+    "name": "Strawberry Guava",
+    "lat": 27.70497903,
+    "lng": 85.29770264,
+    "photo": "1774093865398.jpg",
+    "desc": "Psidium cattleianum, commonly known as the Strawberry Guava or Cattley Guava, flourishes in subtropical to tropical climates, preferring full sun and rich, well-drained soil, though it is remarkably adaptable to poorer conditions. Its growth pattern is t",
+    "uses": "Primary Uses of Strawberry Guava:\nNutritional: Eaten fresh off the branch, skin and all, or processed into premium ruby-red jellies, sorbets, and fruit leathers.\nOrnamental: Highly valued as a \"specimen plant\" in home gardens for its attractive peeling b"
+  },
+  {
+    "name": "Custard Apple",
+    "lat": 27.70510416,
+    "lng": 85.29770457,
+    "photo": "1774094200938.jpg",
+    "desc": "Annona reticulata, commonly known as the Custard Apple or Bull's Heart, flourishes in tropical to sub-tropical climates, requiring a frost-free environment and well-drained, somewhat humid conditions to thrive. Its growth pattern is that of a small to me",
+    "uses": "Primary Uses of Custard Apple:\nNutritional: Best enjoyed fresh by scooping out the chilled pulp, or blended into premium milkshakes, ice creams, and traditional fruit creams.\nMedicinal: In various traditional practices, a decoction of the bark is used as"
+  },
+  {
+    "name": "Pear",
+    "lat": 27.70508304,
+    "lng": 85.29777764,
+    "photo": "1774094521961.jpg",
+    "desc": "Pyrus calleryana 'Bradford Pear' flourishes in temperate to sub-tropical climates, thriving in full sun and adaptable to almost any soil type, from heavy clay to compacted urban earth. Its growth pattern is famously symmetrical, forming a dense, pyramida",
+    "uses": "Primary Uses of Bradford Pear:\nOrnamental: Historically the #1 choice for \"instant landscaping\" in suburban neighborhoods and parking lots due to its rapid growth and uniform shape.\nUrban Landscaping: Highly valued for its extreme tolerance to air pollut"
+  },
+  {
+    "name": "Aloe jucunda",
+    "lat": 27.70472873,
+    "lng": 85.2977801,
+    "photo": "1774089890262.jpg",
+    "desc": "Aloe jucunda, a rare and visually striking succulent endemic to a small limestone plateau in northern Somalia, thrives in arid, tropical climates with temperatures between 15ï¿½C and 30ï¿½C, requiring very bright indirect light to full sun and exceptiona",
+    "uses": "Specialist Collections: Highly prized by succulent enthusiasts and \"caudiciform\" collectors for its miniature size and geometric leaf patterns.\n?Rockery Accents: Used in small-scale \"crevice gardens\" or troughs where its clumping nature can be highlighte"
+  },
+  {
+    "name": "Amaryllis",
+    "lat": 27.70472625,
+    "lng": 85.29778501,
+    "photo": "1774089955684.jpg",
+    "desc": "Amaryllis (Hippeastrum), a striking bulbous perennial, thrives in warm, subtropical climates with temperatures between 18ï¿½C and 25ï¿½C, requiring bright, indirect sunlight and well-draining, loamy soil to trigger its spectacular flowering cycle. Its gr",
+    "uses": "Ornamental: Widely used as a festive indoor potted plant for winter \"forcing.\"\n?Landscape: Planted in warm-climate gardens for dramatic spring borders.\n?Floral Design: Highly valued as a long-lasting cut flower in high-end arrangements.\n?Symbolism: Frequ"
+  },
+  {
+    "name": "Rose",
+    "lat": 27.70474921,
+    "lng": 85.29782772,
+    "photo": "1774090014864.jpg",
+    "desc": "Rosa species, a diverse genus of woody perennials belonging to the Rosaceae family, thrive in temperate to subtropical climates with temperatures between 15ï¿½C and 28ï¿½C, requiring at least 6 hours of full sun and well-draining, nutrient-rich loamy soi",
+    "uses": "Floristry: The world's most commercially significant cut flower, symbolizing various emotions through a standardized color language.\n?Perfumery: Essential oils (Attar of Roses) are steam-distilled from petals, requiring approximately 4,000 kg of flowers"
+  },
+  {
+    "name": "Hibiscus",
+    "lat": 27.70472725,
+    "lng": 85.29777462,
+    "photo": "1774090106560.jpg",
+    "desc": "Hibiscus rosa-sinensis, commonly known as the Chinese Hibiscus or Jaba Phool, is a prolific evergreen flowering shrub belonging to the Malvaceae family. It thrives in tropical and subtropical climates with temperatures between 16ï¿½C and 32ï¿½C, requirin",
+    "uses": "Ornamental Landscaping: One of the most common \"specimen plants\" in South Asian gardens, valued for its year-round blooming and vast array of hybrid colors.\n?Nutritional & Beverage: Varieties like Hibiscus sabdariffa (Roselle) are globally harvested for"
+  },
+  {
+    "name": "Citrus aurantiifolia",
+    "lat": 27.70471376,
+    "lng": 85.2977778,
+    "photo": "1774090188048.jpg",
+    "desc": "Citrus aurantiifolia, commonly known as the Key Lime or Mexican Lime, is a small, thorny evergreen tree that thrives in warm, tropical and subtropical climates with temperatures between 20ï¿½C and 30ï¿½C, requiring full sun and well-draining, slightly ac",
+    "uses": "Culinary: The essential ingredient for authentic Key Lime pie, marinades, and tropical cocktails.\n?Essential Oils: Cold-pressed from the peel for use in aromatherapy, perfumes, and cleaning products.\n?Medicinal: Traditionally used in various cultures to"
+  },
+  {
+    "name": "Citrus aurantiifolia",
+    "lat": 27.70477821,
+    "lng": 85.29788488,
+    "photo": "1774090356610.jpg",
+    "desc": "Citrus aurantiifolia, commonly known as the Key Lime or Mexican Lime, is a small, thorny evergreen tree that thrives in warm, tropical and subtropical climates with temperatures between 20ï¿½C and 30ï¿½C, requiring full sun and well-draining, slightly ac",
+    "uses": "Culinary: The essential ingredient for authentic Key Lime pie, marinades, and tropical cocktails.\n?Essential Oils: Cold-pressed from the peel for use in aromatherapy, perfumes, and cleaning products.\n?Medicinal: Traditionally used in various cultures to"
+  },
+  {
+    "name": "Guava",
+    "lat": 27.70477402,
+    "lng": 85.29789961,
+    "photo": "1774090411219.jpg",
+    "desc": "Psidium guajava, commonly known as Guava or Amba, is a hardy and prolific tropical fruit tree belonging to the Myrtaceae family. It thrives in tropical and subtropical climates with temperatures between 23ï¿½C and 28ï¿½C, requiring full sun and adapting",
+    "uses": "Global Nutrition: Eaten fresh or processed into \"Guava Cheese,\" jellies, and juices; it is an exceptional source of dietary fiber, Vitamin A, and folic acid.\n?Medicinal: The young leaves are rich in quercetin and other flavonoids, traditionally boiled in"
+  },
+  {
+    "name": "Citrus aurantiifolia",
+    "lat": 27.70476689,
+    "lng": 85.29781721,
+    "photo": "1774090527832.jpg",
+    "desc": "Citrus aurantiifolia, commonly known as the Key Lime or Mexican Lime, is a small, thorny evergreen tree that thrives in warm, tropical and subtropical climates with temperatures between 20ï¿½C and 30ï¿½C, requiring full sun and well-draining, slightly ac",
+    "uses": "Culinary: The essential ingredient for authentic Key Lime pie, marinades, and tropical cocktails.\n?Essential Oils: Cold-pressed from the peel for use in aromatherapy, perfumes, and cleaning products.\n?Medicinal: Traditionally used in various cultures to"
+  },
+  {
+    "name": "Chrysanthemum",
+    "lat": 27.70473287,
+    "lng": 85.29777696,
+    "photo": "1774090582367.jpg",
+    "desc": "Chrysanthemum species, a diverse genus of flowering perennials belonging to the Asteraceae family, thrive in temperate to subtropical climates with temperatures between 15ï¿½C and 25ï¿½C, requiring at least 6 hours of full sun and well-draining, fertile",
+    "uses": "Floristry: The second most popular cut flower in the world after the rose, valued for its incredible vase life (up to 3 weeks) and symbolic importance in festivals like Tihar in Nepal.\n?Nutritional & Beverage: White and yellow C. morifolium flowers are b"
+  },
+  {
+    "name": "Dwarf Jade Plant.",
+    "lat": 27.70482568,
+    "lng": 85.29781164,
+    "photo": "1774090774829.jpg",
+    "desc": "Portulacaria afra, commonly known as the Dwarf Jade Plant, Elephant Bush, or Porkbush, is a succulent shrub belonging to the Didiereaceae family (formerly Portulacaceae). It thrives in arid to subtropical climates with temperatures between 21ï¿½C and 30ï",
+    "uses": "Bonsai Horticulture: Perhaps the most popular species for beginner bonsai due to its rapid growth, \"self-healing\" bark, and ability to be shaped into complex styles.\n?Environmental Restoration: Extensively used in the \"Subtropical Thicket\" biome of South"
+  },
+  {
+    "name": "Petunia",
+    "lat": 27.7048286,
+    "lng": 85.29773699,
+    "photo": "1774090919634.jpg",
+    "desc": "Petunia ï¿½ hybrida, a popular flowering perennial typically grown as an annual, belongs to the Solanaceae (Nightshade) family. It thrives in temperate to subtropical climates with temperatures between 15ï¿½C and 25ï¿½C, requiring at least 6 to 8 hours o",
+    "uses": "Ornamental Bedding: The \"gold standard\" for summer color in garden borders and mass plantings due to its continuous blooming cycle.\n?Container Gardening: Specifically bred trailing varieties like 'Surfinia' or 'Supertunia' are the primary choice for hang"
+  },
+  {
+    "name": "Hydrangea",
+    "lat": 27.70474825,
+    "lng": 85.29779395,
+    "photo": "1774091142852.jpg",
+    "desc": "Hydrangea macrophylla, commonly known as the Bigleaf Hydrangea or Hortensia, is a deciduous shrub belonging to the Hydrangeaceae family. It thrives in temperate to subtropical climates with temperatures between 15ï¿½C and 25ï¿½C, requiring morning sun wi",
+    "uses": "Ornamental Landscaping: Highly valued for its ability to provide high-impact color in shaded \"woodland\" gardens and northern-facing borders.\n?Floristry: A premium cut flower prized for its volume and structural presence in wedding arrangements and large-"
+  },
+  {
+    "name": "white clover (Trifolium repens)",
+    "lat": 27.70483161,
+    "lng": 85.29771281,
+    "photo": "1774091527790.jpg",
+    "desc": "Trifolium repens, commonly known as White Clover or Seto Gobre Ghaans, is a perennial legume belonging to the Fabaceae family. It thrives in temperate to subtropical climates with temperatures between 10ï¿½C and 25ï¿½C, requiring full sun to partial shad",
+    "uses": "Livestock Forage: A high-protein, highly digestible pasture component for cattle, sheep, and goats, often intercropped with grasses like Ryegrass.\n?Green Manure: Plowed back into the soil in organic farming systems to naturally boost nitrogen levels and"
+  },
+  {
+    "name": "Aaru(peach)",
+    "lat": 27.70497368,
+    "lng": 85.29777971,
+    "photo": "1774091707739.jpg",
+    "desc": "Prunus persica, commonly known as the Peach or Aru, is a deciduous fruit tree belonging to the Rosaceae family. It thrives in temperate to subtropical climates with temperatures between 20ï¿½C and 30ï¿½C during the growing season, requiring a specific pe",
+    "uses": "Commercial Pomology: Globally cultivated for its juicy, stone-fruit drupes, categorized into \"Freestone\" (easy pit removal) and \"Clingstone\" (flesh attached to pit) varieties.\n?Agricultural Processing: Extensively used in the production of canned fruits,"
+  },
+  {
+    "name": "Mango",
+    "lat": 27.70498501,
+    "lng": 85.29776073,
+    "photo": "1774091838007.jpg",
+    "desc": "Mangifera indica, commonly known as the Mango, is a long-lived tropical stone fruit tree that thrives in warm climates with temperatures between 24ï¿½C and 30ï¿½C, requiring a distinct dry season to stimulate flowering and deep, well-draining alluvial or",
+    "uses": "Global Nutrition: A primary source of Vitamin A, Vitamin C, and dietary fiber for billions, consumed fresh, dried, or as pulp.\n?Industrial Processing: Utilized for high-value exports including purï¿½es, concentrates, and \"Amchur\" (dried green mango powde"
+  },
+  {
+    "name": "Guava",
+    "lat": 27.70502618,
+    "lng": 85.29774689,
+    "photo": "1774091923473.jpg",
+    "desc": "Psidium guajava, commonly known as Guava or Amba, is a hardy and prolific tropical fruit tree belonging to the Myrtaceae family. It thrives in tropical and subtropical climates with temperatures between 23ï¿½C and 28ï¿½C, requiring full sun and adapting",
+    "uses": "Global Nutrition: Eaten fresh or processed into \"Guava Cheese,\" jellies, and juices; it is an exceptional source of dietary fiber, Vitamin A, and folic acid.\n?Medicinal: The young leaves are rich in quercetin and other flavonoids, traditionally boiled in"
+  },
+  {
+    "name": "Guava",
+    "lat": 27.70492764,
+    "lng": 85.29768864,
+    "photo": "1774092058531.jpg",
+    "desc": "Psidium guajava, commonly known as Guava or Amba, is a hardy and prolific tropical fruit tree belonging to the Myrtaceae family. It thrives in tropical and subtropical climates with temperatures between 23ï¿½C and 28ï¿½C, requiring full sun and adapting",
+    "uses": "Global Nutrition: Eaten fresh or processed into \"Guava Cheese,\" jellies, and juices; it is an exceptional source of dietary fiber, Vitamin A, and folic acid.\n?Medicinal: The young leaves are rich in quercetin and other flavonoids, traditionally boiled in"
+  },
+  {
+    "name": "Banana",
+    "lat": 27.70497232,
+    "lng": 85.29768173,
+    "photo": "1774092193357.jpg",
+    "desc": "Musa ï¿½ paradisiaca, commonly known as the Banana or Kera, is a large herbaceous perennial belonging to the Musaceae family. It thrives in tropical and subtropical climates with temperatures between 26ï¿½C and 30ï¿½C, requiring high humidity, full sun,",
+    "uses": "Global Staple Nutrition: A critical source of carbohydrates, potassium, and Vitamin B6 for billions, consumed fresh or as cooked \"plantains.\"\n?Industrial Processing: Utilized for high-volume exports including dried banana chips, flour, and purees for the"
+  },
+  {
+    "name": "Loquat",
+    "lat": 27.70496558,
+    "lng": 85.2976989,
+    "photo": "1774092358915.jpg",
+    "desc": "Eriobotrya japonica, commonly known as the Loquat or Mayal, is an ancient evergreen fruit tree belonging to the Rosaceae family. It thrives in subtropical to mild temperate climates with temperatures between 15ï¿½C and 25ï¿½C, requiring full sun and well",
+    "uses": "Pomology: Cultivated for its succulent, tangy-sweet pomes, which are high in Vitamin A, dietary fiber, and potassium.\n?Medicinal: Loquat syrup (Pei Pa Koa) made from the leaves is a globally recognized traditional remedy for treating chronic coughs, bron"
+  },
+  {
+    "name": "Guava",
+    "lat": 27.70502482,
+    "lng": 85.29782035,
+    "photo": "1774092590537.jpg",
+    "desc": "Psidium guajava, commonly known as Guava or Amba, is a hardy and prolific tropical fruit tree belonging to the Myrtaceae family. It thrives in tropical and subtropical climates with temperatures between 23ï¿½C and 28ï¿½C, requiring full sun and adapting",
+    "uses": "Global Nutrition: Eaten fresh or processed into \"Guava Cheese,\" jellies, and juices; it is an exceptional source of dietary fiber, Vitamin A, and folic acid.\n?Medicinal: The young leaves are rich in quercetin and other flavonoids, traditionally boiled in"
+  },
+  {
+    "name": "Coffee",
+    "lat": 27.7050702,
+    "lng": 85.29782147,
+    "photo": "1774092681869.jpg",
+    "desc": "Coffea arabica (and the hardier C. canephora or Robusta), commonly known as Coffee or Kapi, is a high-value evergreen shrub belonging to the Rubiaceae family. It thrives in tropical and subtropical \"Bean Belt\" climates with temperatures between 18ï¿½C an",
+    "uses": "Global Beverage Industry: The world's most traded tropical agricultural commodity, consumed for its caffeine content and complex profile of over 800 aromatic compounds.\n?Pharmaceutical & Cosmetic: Caffeine extracted from \"green beans\" is utilized in anal"
+  },
+  {
+    "name": "Banana",
+    "lat": 27.70509803,
+    "lng": 85.29773646,
+    "photo": "1774092800871.jpg",
+    "desc": "Musa ï¿½ paradisiaca, commonly known as the Banana or Kera, is a large herbaceous perennial belonging to the Musaceae family. It thrives in tropical and subtropical climates with temperatures between 26ï¿½C and 30ï¿½C, requiring high humidity, full sun,",
+    "uses": "Global Staple Nutrition: A critical source of carbohydrates, potassium, and Vitamin B6 for billions, consumed fresh or as cooked \"plantains.\"\n?Industrial Processing: Utilized for high-volume exports including dried banana chips, flour, and purees for the"
+  },
+  {
+    "name": "Fig",
+    "lat": 27.70503789,
+    "lng": 85.29770851,
+    "photo": "1774093186095.jpg",
+    "desc": "Ficus carica is a deciduous shrub or small tree that thrives in Mediterranean climates characterized by long, hot, dry summers and mild, wet winters, requiring well-drained, alkaline soil and full sun to develop high sugar content. Its growth pattern is",
+    "uses": "Culinary: Consumed fresh, dried, or preserved in jams; the high sugar content makes them a natural sweetener.\n?Medicinal: Traditionally used as a mild laxative due to high dietary fiber and for its anti-inflammatory properties.\n?Industrial: The milky whi"
+  },
+  {
+    "name": "Pear",
+    "lat": 27.70503003,
+    "lng": 85.29779172,
+    "photo": "1774093642276.jpg",
+    "desc": "The European pear thrives in temperate climates, requiring a specific period of winter \"chilling hours\" (typically 600 to 1,000 hours below 7ï¿½C) to break dormancy and ensure uniform flowering. It prefers deep, well-drained, and slightly acidic soils, r",
+    "uses": "Culinary: Eaten fresh, poached, or processed into preserves, juices, and \"perry\" (pear cider).\n?Nutritional: A significant source of pectin (a soluble fiber) and vitamin C, supporting digestive health.\n?Woodwork: Pear wood is prized in fine carpentry and"
+  },
+  {
+    "name": "Pumelo",
+    "lat": 27.70498623,
+    "lng": 85.29790721,
+    "photo": "1774093774840.jpg",
+    "desc": "The pummelo thrives in tropical and subtropical climates, requiring high humidity and temperatures between 25ï¿½C and 30ï¿½C for optimal fruit development and sweetness. It is a large, spreading evergreen tree reaching heights of 5 to 15 meters, characte",
+    "uses": "Culinary: Eaten fresh, added to salads (like the Southeast Asian Yam Som-O), or processed into juice and marmalades.\n?Confectionery: The thick rind is frequently candied or used as a flavoring agent in desserts.\n?Medicinal: High in Vitamin C and potassiu"
+  },
+  {
+    "name": "Pumelo",
+    "lat": 27.70481323,
+    "lng": 85.29768732,
+    "photo": "1774094084661.jpg",
+    "desc": "The pummelo thrives in tropical and subtropical climates, requiring high humidity and temperatures between 25ï¿½C and 30ï¿½C for optimal fruit development and sweetness. It is a large, spreading evergreen tree reaching heights of 5 to 15 meters, characte",
+    "uses": "Culinary: Eaten fresh, added to salads (like the Southeast Asian Yam Som-O), or processed into juice and marmalades.\n?Confectionery: The thick rind is frequently candied or used as a flavoring agent in desserts.\n?Medicinal: High in Vitamin C and potassiu"
+  },
+  {
+    "name": "Avocado",
+    "lat": 27.70509535,
+    "lng": 85.29787614,
+    "photo": "1774094690596.jpg",
+    "desc": "?The avocado thrives in humid tropical and subtropical climates, requiring temperatures between 20ï¿½C and 30ï¿½C and high-quality, well-aerated soil, as its shallow roots are extremely sensitive to waterlogging. It is a dense, evergreen tree that can re",
+    "uses": "Culinary: Consumed fresh in salads, spreads (guacamole), and even smoothies; used as a vegan substitute for butter or mayo.\n?Cosmetic: Oil extracted from the pulp is a primary ingredient in high-end moisturizers, hair masks, and soaps due to its deep ski"
+  }
+]
