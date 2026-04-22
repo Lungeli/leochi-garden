@@ -280,6 +280,7 @@ export function PlantMapIsland() {
   const [activeCats, setActiveCats] = useState<Set<CatKey>>(() => new Set(Object.keys(CAT_META) as CatKey[]));
   const [query, setQuery] = useState("");
   const [searchOpen, setSearchOpen] = useState(false);
+  const [filtersOpen, setFiltersOpen] = useState(false);
 
   const isCatActive = (cat: CatKey) => activeCats.size === 0 || activeCats.has(cat);
 
@@ -466,10 +467,38 @@ export function PlantMapIsland() {
   return (
     <>
       <div id="mapWrap">
-        <div id="filterPanel">
-          <div id="filterTitle">Filter</div>
+        <div id="filterPanel" className={filtersOpen ? "" : "collapsed"}>
+          <div id="filterTitle">
+            <span>Filter</span>
+            <button
+              type="button"
+              className="filter-toggle"
+              aria-expanded={filtersOpen}
+              aria-controls="filterBody"
+              aria-label={filtersOpen ? "Hide filters" : "Show filters"}
+              onClick={() => setFiltersOpen((v) => !v)}
+            >
+              <svg
+                viewBox="0 0 20 20"
+                width="16"
+                height="16"
+                aria-hidden="true"
+                focusable="false"
+                style={{
+                  display: "block",
+                  transform: filtersOpen ? "rotate(180deg)" : "rotate(0deg)",
+                  transition: "transform .15s ease",
+                }}
+              >
+                <path
+                  d="M5.25 7.75a1 1 0 0 1 1.41 0L10 11.09l3.34-3.34a1 1 0 1 1 1.41 1.41l-4.05 4.05a1 1 0 0 1-1.41 0L5.25 9.16a1 1 0 0 1 0-1.41Z"
+                  fill="currentColor"
+                />
+              </svg>
+            </button>
+          </div>
           <div className="filter-divider" />
-          <div style={{ display: "flex", flexDirection: "column", gap: 8 }}>
+          <div id="filterBody" style={{ display: filtersOpen ? "flex" : "none", flexDirection: "column", gap: 8 }}>
             <button
               type="button"
               className="filter-action"
@@ -490,9 +519,7 @@ export function PlantMapIsland() {
                 onClick={() => toggleCat(k)}
               />
             ))}
-            <div className="filter-count">
-              🌱 {plants?.length ?? 0} plants
-            </div>
+            <div className="filter-count">🌱 {plants?.length ?? 0} plants</div>
           </div>
         </div>
 

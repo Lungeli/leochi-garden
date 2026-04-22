@@ -80,6 +80,30 @@ body {
   margin-bottom:10px;
 }
 
+.filter-toggle{
+  margin-left:auto;
+  border: 1px solid rgba(229,231,235,1);
+  background: rgba(243,244,246,1);
+  color:#111827;
+  border-radius: 999px;
+  width: 32px;
+  height: 28px;
+  padding: 0;
+  font-size: .72rem;
+  font-weight: 600;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.filter-toggle:hover{ background: rgba(229,231,235,1); }
+.filter-toggle:active{ transform: translateY(1px); }
+
+#filterPanel.collapsed{
+  max-height: none;
+  overflow: hidden;
+}
+
 .filter-divider{
   height:1px;
   background: rgba(229,231,235,1);
