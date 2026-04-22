@@ -592,7 +592,7 @@ function Pill(props: {
           }}
         />
       ) : (
-        <span className="cpill-dot" style={{ background: props.color }} />
+        <span className="cpill-dot" style={{ background: props.iconColor }} />
       )}
       {props.label}
     </div>
