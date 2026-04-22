@@ -175,17 +175,22 @@ function getCat(name: string): CatKey {
 }
 
 const GARDEN_OUTLINE: [number, number][] = [
-  [27.70519, 85.29769],
-  [27.70514, 85.29793],
-  [27.70500, 85.29801],
-  [27.70473, 85.29810],
-  [27.70455, 85.29804],
-  [27.70444, 85.29777],
-  [27.70443, 85.29758],
-  [27.70447, 85.29747],
-  [27.70460, 85.29740],
-  [27.70484, 85.29743],
-  [27.70498, 85.29750],
+  [27.7045547, 85.2974879],  // hull point
+  [27.7045315, 85.2974909],  // hull point
+  [27.7044828, 85.2976365],  // hull point
+  [27.7044860, 85.2976438],  // hull point
+  [27.7045578, 85.2977214],  // hull point
+  [27.7047686, 85.2979035],  // hull point
+  [27.7047994, 85.2979132],  // hull point
+  [27.7049776, 85.2979067],  // hull point
+  [27.7050886, 85.2978804],  // hull point
+  [27.7051009, 85.2978311],  // hull point
+  [27.7051010, 85.2977565],  // hull point
+  [27.7050981, 85.2977130],  // hull point
+  [27.7050320, 85.2976604],  // hull point
+  [27.7047024, 85.2975143],  // hull point
+  [27.7046395, 85.2974976],  // hull point
+  [27.7045810, 85.2974906],  // hull point
 ];
 
 type MarkerEntry = {
@@ -361,15 +366,19 @@ export function PlantMapIsland() {
         className: "pc-popup",
       };
 
+      const isMobile = typeof window !== "undefined" && window.matchMedia?.("(max-width: 640px)")?.matches;
+      const iconPx = isMobile ? 22 : 35;
+      const iconAnchor = Math.round(iconPx / 2);
+
       const markerRegistry: MarkerEntry[] = plants.map((p) => {
         const cat = getCat(p.name);
         const meta = CAT_META[cat];
         const icon = Leaflet.divIcon({
           className: "",
           html: `<div class="picon" style="--dot-color:${meta.color};--icon-url:url('${meta.iconUrl}')"></div>`,
-          iconSize: [35, 35],
-          iconAnchor: [18, 18],
-          popupAnchor: [0, -8],
+          iconSize: [iconPx, iconPx],
+          iconAnchor: [iconAnchor, iconAnchor],
+          popupAnchor: [0, -Math.round(iconPx * 0.25)],
         });
         const marker = Leaflet.marker([p.lat, p.lng], { icon }).addTo(map);
         marker.bindPopup(() => buildCardHTML(p, cat), popupOpts);
@@ -499,16 +508,6 @@ export function PlantMapIsland() {
           </div>
           <div className="filter-divider" />
           <div id="filterBody" style={{ display: filtersOpen ? "flex" : "none", flexDirection: "column", gap: 8 }}>
-            <button
-              type="button"
-              className="filter-action"
-              onClick={() => {
-                const el = document.getElementById("search-box") as HTMLInputElement | null;
-                el?.focus();
-              }}
-            >
-              🔍 Search plants
-            </button>
             {(Object.keys(CAT_META) as CatKey[]).map((k) => (
               <Pill
                 key={k}

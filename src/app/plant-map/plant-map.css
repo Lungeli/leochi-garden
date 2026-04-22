@@ -100,8 +100,12 @@ body {
 .filter-toggle:active{ transform: translateY(1px); }
 
 #filterPanel.collapsed{
-  max-height: none;
   overflow: hidden;
+  padding-bottom: 10px;
+}
+
+#filterPanel.collapsed .filter-divider{
+  display:none;
 }
 
 .filter-divider{
@@ -306,4 +310,50 @@ body {
 .sr-item .sr-name{flex:1;font-weight:500}
 .sr-item .sr-dot{width:8px;height:8px;background:var(--gold);border-radius:50%;flex-shrink:0}
 #search-count{font-size:.7rem;color:var(--goldf);background:rgba(0,0,0,.5);padding:2px 12px;border-radius:12px;display:none}
+
+@media (max-width: 640px){
+  #hdr{ padding:8px 12px; gap:10px; }
+  #hdr h1{ font-size: 1.02rem; }
+  #hdr p{ display:none; }
+
+  #search-wrap{
+    top: 10px;
+    width: min(calc(100vw - 24px), 420px);
+  }
+
+  #filterPanel{
+    left: 12px;
+    right: 12px;
+    top: auto;
+    bottom: 12px;
+    width: auto;
+    max-height: min(60vh, calc(100vh - 6.5rem));
+  }
+
+  .picon{
+    width: 22px;
+    height: 22px;
+  }
+
+  .picon-match{
+    transform:scale(1.12)!important;
+    box-shadow:0 0 0 4px rgba(201,168,76,.34)!important;
+  }
+
+  .leaflet-control-zoom a{
+    width: 34px;
+    height: 34px;
+    line-height: 34px;
+  }
+}
+
+@media (hover: none){
+  .picon:hover{
+    transform:none;
+    box-shadow:0 2px 6px rgba(0,0,0,.45);
+  }
+  .filter-toggle:hover{ background: rgba(243,244,246,1); }
+  .filter-action:hover{ background:#fff; }
+  .cpill:hover{ background: inherit; }
+}
 
